@@ -1,0 +1,5 @@
+Esta es un tutorial de git para repositorio
+
+y control de versiones
+
+Hola me llamo fernando gggg
