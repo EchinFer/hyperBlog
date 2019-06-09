@@ -10,6 +10,7 @@
 
 *Creado por el increible echin team
 *Incluye ejemplos en linux, windows, mac
+*Disponible para todas las edades
 
 #Saludos
 
